@@ -1,8 +1,14 @@
+
 Name: VAISHNAVI DESHMUKHE
+
 Company: CODTECH IT SOLUTIONS
+
 ID:CT08DS4917
+
 Domain:UI/UX Design
+
 Duration: 15july to 15 August
+
 Mentor: Muzamil Ahmed
 ## Overview of Projects
 
