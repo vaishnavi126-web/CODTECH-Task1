@@ -18,8 +18,11 @@ The goal of this project was to create a visually appealing and functional perso
 
 ### Key Activities:
 -**Design**: Conceptualized and designed the layout and structure of the portfolio, focusing on a modern, clean, and professional look.
+
 -**Development**: Built the portfolio using HTML for the structure, CSS for styling, and JavaScript for interactivity.
+
 -**Content Creation**: Curated and wrote content for each section of the portfolio, including an about me section, project showcases, and contact information.
+
 -**Responsive Design**: Ensured the portfolio is fully responsive and provides an optimal viewing experience across different devices, including desktops, tablets, and smartphones.
 
 ### Technologies Used:
