@@ -27,5 +27,7 @@ The goal of this project was to create a visually appealing and functional perso
 
 ### Technologies Used:
 -**HTML**: For creating the structure and layout of the portfolio.
+
 -**CSS**: For styling, animations, and ensuring a cohesive design across the website.
+
 -**JavaScript**: For adding interactivity, such as smooth scrolling, image zoom effects in the project gallery, and other dynamic elements.
